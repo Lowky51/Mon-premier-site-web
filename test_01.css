@@ -1,0 +1,3 @@
+@charset "UTF-8";
+
+:root,[data-bs-theme=light] .test_color { color: red; }
